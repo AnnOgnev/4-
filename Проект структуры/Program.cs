@@ -22,7 +22,6 @@ namespace Проект_структуры
                     Console.Write(ara[i, j]);
                 }
                 Console.WriteLine();
-
             }
         }
     }
